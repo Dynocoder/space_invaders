@@ -1,0 +1,5 @@
+open main.exe to start game
+
+a - to move left
+d to move right
+space - to fire 
